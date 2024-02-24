@@ -4,7 +4,6 @@
 
 This repository contains a Python application that leverages the `Mediapipe`, `open-cv`, and `pyautogui` libraries to enable gesture-based control for running games. The application showcases the integration of pose detection to control character movements in games using hand and body gestures.
 
-![Running Games Demo]([subway surfers sample.mp4](https://github.com/AKILSADIK/Running-Games-Using-openCV/blob/main/subway%20surfers%20sample.mp4))
 
 ## Table of Contents
 
